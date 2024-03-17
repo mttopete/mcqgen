@@ -1,6 +1,6 @@
 MCQ,Choices,Correct
-What is the main focus of machine learning?,a: Development of statistical algorithms | b: Study of artificial intelligence | c: Learning from data | d: All of the above,d
-Which field has machine learning NOT been applied to?,a: Natural language processing | b: Agriculture | c: Music composition | d: Medicine,c
-Who coined the term 'machine learning' in 1959?,a: Donald Hebb | b: Arthur Samuel | c: Tom M. Mitchell | d: Walter Pitts,b
-What is the mathematical foundation of machine learning?,a: Data mining | b: Computational statistics | c: Mathematical optimization | d: Exploratory data analysis,c
-What is the main objective of modern-day machine learning?,a: To classify data based on models | b: To predict future outcomes | c: Both a and b | d: None of the above,c
+What is machine learning?,a: A field of study in artificial intelligence concerned with the development and study of statistical algorithms | b: A field of study in computer graphics | c: A field of study in robotics | d: A field of study in cybersecurity,a
+Who coined the term 'machine learning'?,a: Alan Turing | b: Arthur Samuel | c: Donald Hebb | d: Tom M. Mitchell,b
+What is the mathematical foundation of machine learning?,a: Data mining | b: Computational statistics | c: Calculus | d: Linear algebra,b
+What is the purpose of machine learning algorithms in stock trading?,a: To predict future outcomes based on models | b: To classify data based on models | c: To analyze speech patterns | d: To study human cognitive processes,a
+What is the main objective of modern-day machine learning?,a: To predict future outcomes based on models | b: To study human cognitive processes | c: To develop computer games | d: To analyze natural language processing,a
